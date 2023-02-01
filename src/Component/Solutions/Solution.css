@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+
+.soltuion{
+    background-image: url("E:\Bitroid Website\myapp\src\Images\Home2.png");
+    color: white;
+    
+}
+
+h1{
+    color: #EECA05;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: auto;
+}
+
+p {
+
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    margin-left: 50px;
+
+}
+
+.solution-1{
+    font-size: 25px;
+    color: white;
+}
+
+.solution-2{
+    font-size: 15px;
+    color: #8D8D8D;
+}
+
+img{
+    height: 115px;
+    width: 115px;
+    align-items: center;
+}
+
+.individuals{
+    margin-left: 1100px;
+    /* margin-bottom: 100px; */
+}

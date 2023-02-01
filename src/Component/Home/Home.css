@@ -1,0 +1,30 @@
+*{
+    color: white;
+    background-image: url('E:\Bitroid Website\myapp\src\Images\Home.png');
+}
+.home{
+    background-image: url('E:\Bitroid Website\myapp\src\Images\Home.png');
+
+}
+.welcome{
+    
+    margin-left: 100px;
+    margin-top: 100px;
+    color: white;
+    font-size: 75px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.knowmore{
+    background-color: rgb(36, 35, 35);
+    padding: 15px;
+    position: absolute;
+    align-items: center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-color: yellow;
+    border-radius: 15px;
+    margin-left: 1200px;
+    margin-top: -200px;
+    
+}

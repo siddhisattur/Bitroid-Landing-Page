@@ -1,0 +1,73 @@
+*{
+    box-sizing:border-box ;
+
+}
+body{
+    margin:0;
+}
+
+#contact-button {
+    cursor: pointer;
+    background-color:#EECA05;
+    color: rgb(255, 255, 255);
+    padding: 7px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+#contact-button :hover{
+    background-color: white;
+    color: black;
+    padding: 7px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.nav{
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0 1rem;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav ul{
+    padding: 0px 20px;
+    margin:0;
+    list-style:none ;
+    display: flex;
+    gap:1rem;
+    
+}
+
+.nav a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.nav img{
+    width:300px ;
+    height: 150px;
+    overflow: hidden;
+    
+}
+
+.nav li:hover{
+    color:#EECA05;
+}
+
+.nav li{
+    padding: 25px;
+    margin-right: 5px;
+    color:white;
+    font-weight: bold;
+}
+
+
+
+
+
